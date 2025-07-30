@@ -15,4 +15,5 @@ cloudflared secure socket Tunnel to help with isolation security for my server. 
 Place all files in a c:/Users/someuser folder. Open CMD in Windows and cd to c:/Users/someuser
 
 docker-compose pull
+
 docker-compose up -d
