@@ -13,5 +13,6 @@ I abandoned the idea of using localhost to view the site. I use Cloudflare to pr
 cloudflared secure socket Tunnel to help with isolation security for my server. They provide the necessary Tunnel Token.
 
 Place all files in a c:/Users/someuser folder. Open CMD in Windows and cd to c:/Users/someuser
+
 docker-compose pull
 docker-compose up -d
